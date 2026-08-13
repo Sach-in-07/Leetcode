@@ -47,10 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sach-in-07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sach-in-07/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sach-in-07/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sach-in-07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sach-in-07/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sach-in-07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
