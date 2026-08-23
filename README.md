@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sach-in-07/Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Sach-in-07/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sach-in-07/Leetcode/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sach-in-07/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sach-in-07/Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Sach-in-07/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sach-in-07/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sach-in-07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1927-sum-game](https://github.com/Sach-in-07/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sach-in-07/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Sach-in-07/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sach-in-07/Leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
