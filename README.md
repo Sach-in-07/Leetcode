@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Sach-in-07/Leetcode/tree/master/3024-type-of-triangle) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Sach-in-07/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
