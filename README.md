@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Sach-in-07/Leetcode/tree/master/2029-stone-game-ix) |
 | [3024-type-of-triangle](https://github.com/Sach-in-07/Leetcode/tree/master/3024-type-of-triangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sach-in-07/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Sach-in-07/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sach-in-07/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Minimax
 |  |
