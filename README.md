@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sach-in-07/Leetcode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/Sach-in-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [1510-stone-game-iv](https://github.com/Sach-in-07/Leetcode/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Sach-in-07/Leetcode/tree/master/1927-sum-game) |
@@ -134,9 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sach-in-07/Leetcode/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sach-in-07/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sach-in-07/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sach-in-07/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
