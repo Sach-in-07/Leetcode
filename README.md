@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Sach-in-07/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Sach-in-07/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
