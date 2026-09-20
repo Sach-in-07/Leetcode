@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sach-in-07/Leetcode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/Sach-in-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Sach-in-07/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sach-in-07/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Sach-in-07/Leetcode/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Sach-in-07/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sach-in-07/Leetcode/tree/master/2029-stone-game-ix) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sach-in-07/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sach-in-07/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sach-in-07/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Number Theory
 |  |
