@@ -6,7 +6,7 @@ class Solution:
             if ch == ')':
                 curr = []
 
-                while lst and lst[-1] != '(':
+                while lst[-1] != '(':
                     curr.append(lst.pop())
 
                 lst.pop()
