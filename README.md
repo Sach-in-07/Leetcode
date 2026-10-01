@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sach-in-07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Sach-in-07/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Sach-in-07/Leetcode/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/Sach-in-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -197,11 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
