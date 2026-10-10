@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sach-in-07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Sach-in-07/Leetcode/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/Sach-in-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sach-in-07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sach-in-07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sach-in-07/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sach-in-07/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sach-in-07/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Sach-in-07/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Geometry
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sach-in-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0832-flipping-an-image](https://github.com/Sach-in-07/Leetcode/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sach-in-07/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sach-in-07/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
