@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-maximum-containers-on-a-ship](https://github.com/Sach-in-07/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sach-in-07/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sach-in-07/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sach-in-07/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Sach-in-07/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sach-in-07/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Sach-in-07/Leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Sach-in-07/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sach-in-07/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sach-in-07/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sach-in-07/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sach-in-07/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
