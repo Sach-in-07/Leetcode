@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sach-in-07/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Sach-in-07/Leetcode/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/Sach-in-07/Leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sach-in-07/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sach-in-07/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sach-in-07/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Sach-in-07/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
