@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Sach-in-07/Leetcode/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/Sach-in-07/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sach-in-07/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sach-in-07/Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sach-in-07/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sach-in-07/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Sach-in-07/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sach-in-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Sach-in-07/Leetcode/tree/master/0832-flipping-an-image) |
 | [3028-ant-on-the-boundary](https://github.com/Sach-in-07/Leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sach-in-07/Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sach-in-07/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sach-in-07/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Sach-in-07/Leetcode/tree/master/0707-design-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sach-in-07/Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
