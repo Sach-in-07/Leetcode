@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Sach-in-07/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sach-in-07/Leetcode/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/Sach-in-07/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/Sach-in-07/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sach-in-07/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3024-type-of-triangle](https://github.com/Sach-in-07/Leetcode/tree/master/3024-type-of-triangle) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Sach-in-07/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
